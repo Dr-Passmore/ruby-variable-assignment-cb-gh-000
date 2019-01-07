@@ -1,1 +1,1 @@
-expect(greeting).to eq("Hello World")
+greeting=("Hello World")
