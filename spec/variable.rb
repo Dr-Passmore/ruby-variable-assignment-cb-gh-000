@@ -1,1 +1,2 @@
-greeting 'Hello World'
+input = greeting
+puts "Hello world"
